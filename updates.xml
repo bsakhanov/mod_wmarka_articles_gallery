@@ -2,16 +2,16 @@
 <updates>
     <update>
         <name>Webmarka Articles Gallery (package)</name>
-        <description>Webmarka Articles Gallery 1.1.0</description>
+        <description>Webmarka Articles Gallery 1.1.1</description>
         <element>pkg_wmarka_articles_gallery</element>
         <type>package</type>
         <client>site</client>
-        <version>1.1.0</version>
-        <infourl title="Webmarka Articles Gallery 1.1.0">https://github.com/bsakhanov/mod_wmarka_articles_gallery/releases/tag/v1.1.0</infourl>
+        <version>1.1.1</version>
+        <infourl title="Webmarka Articles Gallery 1.1.1">https://github.com/bsakhanov/mod_wmarka_articles_gallery/releases/tag/v1.1.1</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/bsakhanov/mod_wmarka_articles_gallery/releases/download/v1.1.0/pkg_wmarka_articles_gallery_v1.1.0.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/bsakhanov/mod_wmarka_articles_gallery/releases/download/v1.1.1/pkg_wmarka_articles_gallery_v1.1.1.zip</downloadurl>
         </downloads>
-        <sha256>b55f20d734e16d140e4b254f5ac3bb8ff006ffe0af9bac78720033a336c7b786</sha256>
+        <sha256>ccd321474c2ca95ddfea69e0f7b8bac79887b65c013cf56a96557630ed59548e</sha256>
         <changelogurl>https://raw.githubusercontent.com/bsakhanov/mod_wmarka_articles_gallery/main/changelog.xml</changelogurl>
         <maintainer>Beibit Sakhanov</maintainer>
         <maintainerurl>https://webmarka.kz</maintainerurl>
